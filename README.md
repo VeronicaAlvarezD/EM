@@ -34,4 +34,4 @@ Este es un sitio web informativo y educativo sobre **ciberseguridad**, desarroll
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/tu-repo.git
+   git clone https://github.com/VeronicaAlvarezD/EM.git
